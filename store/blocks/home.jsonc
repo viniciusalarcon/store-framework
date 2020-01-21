@@ -2,7 +2,8 @@
   "store.home": {
     "blocks": [
       "flex-layout.row",
-      "flex-layout.col"
+      "flex-layout.col",
+      "shelf"
     ]
   },
   //   "rich-text": {
